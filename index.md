@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 x = 20
 print("the value of x is:", x)
 ```
+
+- [ ] This is task one
+- [ ] This is task two
+- [ ] This task is super important
